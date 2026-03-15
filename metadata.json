@@ -1,0 +1,7 @@
+{
+  "uuid": "pokemon@desklet",
+  "name": "Pokemon Sprite",
+  "description": "Displays a random animated Gen 5 Pokemon sprite",
+  "version": "1.0.0",
+  "max-instances": 10
+}

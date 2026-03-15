@@ -1,0 +1,17 @@
+{
+    "pinned": {
+        "type": "entry",
+        "default": "",
+        "description": "Pin to a specific sprite filename (e.g. s32.gif). Leave blank for random."
+    },
+    "use-trainers": {
+        "type": "checkbox",
+        "default": "",
+        "description": "Use trainer sprites instead."
+    },
+    "flip-horizontal": {
+        "type": "checkbox",
+        "default": false,
+        "description": "Flip sprite horizontally."
+    }
+}
