@@ -1,6 +1,6 @@
 # Pokemon Desklet
 
-
+A Cinnamon desklet to display animated pokemon black and white sprites on your desktop.
 
 ## Sources
 
